@@ -2,6 +2,14 @@
 
 I'm a dedicated student at the AIT Institute, currently part of my own team called "ADAY," working on exciting projects like a Budget management system.
 
+Feel free to connect with me through my social media:
+
+[![Instagram](https://img.shields.io/badge/Instagram-viollenaki-red?style=for-the-badge&logo=instagram)](https://instagram.com/viollenaki)
+[![Telegram](https://img.shields.io/badge/Telegram-aru4r-blue?style=for-the-badge&logo=telegram)](https://t.me/aru4r)
+[![X](https://img.shields.io/badge/X-viollenaki-black?style=for-the-badge&logo=x)](https://x.com/viollenaki)
+[![Threads](https://img.shields.io/badge/Threads-viollenaki-black?style=for-the-badge&logo=threads)](https://www.threads.net/viollenaki)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akbar%20Sharipov-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akbar-sharipov)
+
 ## 👀 My Interests:
 I'm passionate about the IT world, especially software development and new technologies. I love exploring how tech can make life better and solving real-world problems.
 
@@ -25,11 +33,3 @@ I'm always open to collaborate on innovative IT projects, startups, or any initi
 I’m part of the "ADAY" team, working on something big in the **Budget management space**!
 
 ## 📫 Reach Me:
-
-Feel free to connect with me through my social media:
-
-[![Instagram](https://img.shields.io/badge/Instagram-viollenaki-red?style=for-the-badge&logo=instagram)](https://instagram.com/viollenaki)
-[![Telegram](https://img.shields.io/badge/Telegram-aru4r-blue?style=for-the-badge&logo=telegram)](https://t.me/aru4r)
-[![X](https://img.shields.io/badge/X-viollenaki-black?style=for-the-badge&logo=x)](https://x.com/viollenaki)
-[![Threads](https://img.shields.io/badge/Threads-viollenaki-black?style=for-the-badge&logo=threads)](https://www.threads.net/viollenaki)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akbar%20Sharipov-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akbar-sharipov)
