@@ -9,11 +9,10 @@ I'm passionate about the IT world, especially software development and new techn
 I'm constantly learning and improving my skills, whether it’s about coding, system architecture, or the latest trends in tech. Right now, I'm working hard on mastering my current project while expanding my knowledge in IT development.
 
 ## 💻 My Skills:
+![My Animation](https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb)
 - **Languages & Frameworks:** Python, Flask, Django, Flutter, Dart, HTML, CSS, JavaScript, Java, Kotlin, Swift
 - Whether it's backend or mobile app development, I love exploring different tools to create powerful applications.
 
-## ✨ Animation:
-![My Animation](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
 ## 💞️ Collaboration:
 I'm always open to collaborate on innovative IT projects, startups, or any initiatives that bring value to the tech community.
