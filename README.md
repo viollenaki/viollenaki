@@ -12,6 +12,9 @@ I'm constantly learning and improving my skills, whether it’s about coding, sy
 - **Languages & Frameworks:** Python, Flask, Django, Flutter, Dart, HTML, CSS, JavaScript, Java, Kotlin, Swift
 - Whether it's backend or mobile app development, I love exploring different tools to create powerful applications.
 
+## ✨ Animation:
+![My Animation](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
 ## 💞️ Collaboration:
 I'm always open to collaborate on innovative IT projects, startups, or any initiatives that bring value to the tech community.
 
