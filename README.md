@@ -13,7 +13,6 @@ I'm constantly learning and improving my skills, whether it’s about coding, sy
 - **Languages & Frameworks:** Python, Flask, Django, Flutter, Dart, HTML, CSS, JavaScript, Java, Kotlin, Swift
 - Whether it's backend or mobile app development, I love exploring different tools to create powerful applications.
 
-
 ## 💞️ Collaboration:
 I'm always open to collaborate on innovative IT projects, startups, or any initiatives that bring value to the tech community.
 
@@ -26,4 +25,11 @@ I'm always open to collaborate on innovative IT projects, startups, or any initi
 I’m part of the "ADAY" team, working on something big in the **Budget management space**!
 
 ## 📫 Reach Me:
-Feel free to get in touch through GitHub for collaboration or questions! Let’s build something great together.
+
+Feel free to connect with me through my social media:
+
+[![Instagram](https://img.shields.io/badge/Instagram-viollenaki-red?style=for-the-badge&logo=instagram)](https://instagram.com/viollenaki)
+[![Telegram](https://img.shields.io/badge/Telegram-aru4r-blue?style=for-the-badge&logo=telegram)](https://t.me/aru4r)
+[![X](https://img.shields.io/badge/X-viollenaki-black?style=for-the-badge&logo=x)](https://x.com/viollenaki)
+[![Threads](https://img.shields.io/badge/Threads-viollenaki-black?style=for-the-badge&logo=threads)](https://www.threads.net/viollenaki)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akbar%20Sharipov-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akbar-sharipov)
