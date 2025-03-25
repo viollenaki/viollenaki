@@ -11,8 +11,6 @@ Feel free to connect with me through my social media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akbar%20Sharipov-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/akbar-sharipov)
 
 
-![My Animation](https://medias.objectifgard.com/api/v1/images/view/636a4c093b97324cd13f50a1/article/image.jpg)
-
 ## 👀 My Interests:
 I'm passionate about the IT world, especially software development and new technologies. I love exploring how tech can make life better and solving real-world problems.
 
