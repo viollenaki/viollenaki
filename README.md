@@ -27,20 +27,35 @@ I'm constantly learning and improving my skills, whether it’s about coding, sy
 ## 💻 My Skills:
 ![My Animation](https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb)
 
-**Languages & Frameworks:**
-- Python, C++, Dart, Java, Kotlin, Swift, HTML, CSS, JavaScript
-- Flask, Django, FastAPI, Flutter, Qt, PyQt
+**Languages & Frameworks:**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40" />
 
-**Databases:**
-- SQLite3, MySQL
+**Databases:**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
 
-**Tools & Technologies:**
-- Git, GitHub, REST API, JWT
-- Figma, Photoshop
+**Tools & Technologies:**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" />
+<img src="https://img.icons8.com/color/48/json-web-token.png" width="40" title="JWT" />
 
 ---
 
-## 💕 Collaboration:
+## 💞️ Collaboration:
 I'm always open to collaborate on innovative IT projects, startups, or any initiatives that bring value to the tech community.
 
 ---
@@ -74,4 +89,3 @@ I’m part of the **"ADAY"** team, working on something big in the **Budget Mana
 ---
 
 > Let's connect, create, and make something amazing together! 🚀
-
