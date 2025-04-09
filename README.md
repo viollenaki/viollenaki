@@ -51,7 +51,6 @@ I'm constantly learning and improving my skills, whether it’s about coding, sy
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" />
-<img src="https://img.icons8.com/color/48/json-web-token.png" width="40" title="JWT" />
 
 ---
 
