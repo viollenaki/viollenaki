@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @viollenaki!
 
-I'm a dedicated student at the **AIT Institute**, currently part of my own team called **"ADAY"**, working on exciting projects like a **Budget Management System**.
+I'm a dedicated student at the **AIT Institute**, currenlty part of AIT **Solutions** team  .
 
 ---
 
