@@ -7,7 +7,7 @@ I'm a dedicated student at the **AIT Institute**, currenlty part of AIT **Soluti
 ## 🌐 Connect with Me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40viollenaki-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/viollenaki)
-[![Telegram](https://img.shields.io/badge/Telegram-%40aru4r-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aru4r)
+[![Telegram](https://img.shields.io/badge/Telegram-%40aru4r-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/viollenaki)
 [![X](https://img.shields.io/badge/X-%40viollenaki-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/viollenaki)
 [![Threads](https://img.shields.io/badge/Threads-%40viollenaki-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/viollenaki)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akbar%20Sharipov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akbar-sharipov)
