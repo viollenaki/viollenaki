@@ -67,11 +67,6 @@ I'm always open to collaborate on innovative IT projects, startups, or any initi
 
 ---
 
-## ⚡ Fun Fact:
-I’m part of the **"ADAY"** team, working on something big in the **Budget Management space**!
-
----
-
 ## 📊 GitHub Stats:
 
 <p align="center">
