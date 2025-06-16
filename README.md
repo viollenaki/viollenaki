@@ -84,3 +84,6 @@ I'm always open to collaborate on innovative IT projects, startups, or any initi
 ---
 
 > Let's connect, create, and make something amazing together! 🚀
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=viollenaki&show_icons=true&theme=tokyonight" alt="viollenaki's GitHub Stats"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viollenaki&layout=compact&theme=tokyonight" alt="Top Languages"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=viollenaki&theme=tokyonight" alt="GitHub Streak Stats"/> </p>
