@@ -66,24 +66,36 @@ I'm always open to collaborate on innovative IT projects, startups, or any initi
 - I have a strong **work ethic** and focus on delivering high-quality solutions in all my tasks.
 
 ---
-
-## 📊 GitHub Stats:
-
+📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viollenaki&show_icons=true&theme=tokyonight" alt="viollenaki's GitHub Stats"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viollenaki&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
+🔥 Current Streak:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=viollenaki&theme=tokyonight" alt="GitHub Streak Stats"/>
 </p>
 
----
+📈 Activity Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viollenaki&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
 
-> Let's connect, create, and make something amazing together! 🚀
+⚡ GitHub Metrics:
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viollenaki&theme=tokyonight" alt="Profile Summary"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viollenaki&theme=tokyonight" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viollenaki&theme=tokyonight" alt="Repos per Language"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viollenaki&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viollenaki&theme=tokyonight&utcOffset=6" alt="Productive Time"/>
+</p>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=viollenaki&show_icons=true&theme=tokyonight" alt="viollenaki's GitHub Stats"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viollenaki&layout=compact&theme=tokyonight" alt="Top Languages"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=viollenaki&theme=tokyonight" alt="GitHub Streak Stats"/> </p>
+Let's connect, create, and make something amazing together! 🚀
