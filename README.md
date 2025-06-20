@@ -26,7 +26,10 @@ I'm constantly learning and improving my skills, whether it’s about coding, sy
 
 ## 💻 My Skills:
 ![My Animation](https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb)
-Languages & Frameworks:<br>
+
+
+Languages & Frameworks:
+<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
