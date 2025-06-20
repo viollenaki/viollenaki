@@ -50,6 +50,7 @@ Databases:<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
 
 Tools & Technologies:<br>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
@@ -58,6 +59,8 @@ Tools & Technologies:<br>
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-analytics.svg" width="40" title="Google Analytics" />
 <img src="https://companieslogo.com/img/orig/brevo_BIG-bfe19409.png?t=1720244494" width="80" title="Brevo" />
 <img src="https://posthog.com/brand/posthog-logo@2x.png"  title="PostHog" />
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/atlassian.svg" width="40" title="Atlassian">
+
 
 
 
