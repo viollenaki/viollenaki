@@ -55,9 +55,9 @@ Tools & Technologies:<br>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" />
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
-<img src="https://seeklogo.com/images/P/posthog-logo-A57D6D7E65-seeklogo.com.png" width="40" title="PostHog" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Google_Analytics_Logo.png/240px-Google_Analytics_Logo.png" width="40" title="Google Analytics" />
-<img src="https://www.brevo.com/wp-content/uploads/2023/05/brevo-logo.svg" width="80" title="Brevo" />
+<img src="https://posthog.com/brand/posthog-logo@2x.png" width="40" title="PostHog" />
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-analytics.svg" width="40" title="Google Analytics" />
+<img src="https://companieslogo.com/img/orig/brevo_BIG-bfe19409.png?t=1720244494" width="80" title="Brevo" />
 
 
 
