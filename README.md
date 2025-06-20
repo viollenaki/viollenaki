@@ -26,8 +26,7 @@ I'm constantly learning and improving my skills, whether it’s about coding, sy
 
 ## 💻 My Skills:
 ![My Animation](https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb)
-
-**Languages & Frameworks:**<br>
+Languages & Frameworks:<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
@@ -43,15 +42,21 @@ I'm constantly learning and improving my skills, whether it’s about coding, sy
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
 
-**Databases:**<br>
+Databases:<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
 
-**Tools & Technologies:**<br>
+Tools & Technologies:<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" />
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
+<img src="https://seeklogo.com/images/P/posthog-logo-A57D6D7E65-seeklogo.com.png" width="40" title="PostHog" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Google_Analytics_Logo.png/240px-Google_Analytics_Logo.png" width="40" title="Google Analytics" />
+<img src="https://www.brevo.com/wp-content/uploads/2023/05/brevo-logo.svg" width="80" title="Brevo" />
+
+
 
 ---
 
