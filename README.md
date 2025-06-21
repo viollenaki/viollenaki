@@ -84,11 +84,6 @@ I'm always open to collaborate on innovative IT projects, startups, or any initi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viollenaki&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
-## 🔥 Current Streak
-
-## 🔥 Current Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=viollenaki&theme=tokyonight)
 
 
 📈 Activity Graph:
