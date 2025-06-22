@@ -77,8 +77,8 @@ I'm always open to collaborate on innovative IT projects, startups, or any initi
 
 ---
 
-Daily Streak 
-[![GitHub Streak](https://streak-stats.demolab.com?user=viollenaki&theme=default)](https://git.io/streak-stats)
+Daily Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=viollenaki)](https://git.io/streak-stats)
 
 
 
