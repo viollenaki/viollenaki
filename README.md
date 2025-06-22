@@ -76,6 +76,12 @@ I'm always open to collaborate on innovative IT projects, startups, or any initi
 - I have a strong **work ethic** and focus on delivering high-quality solutions in all my tasks.
 
 ---
+
+Daily Streak 
+[![GitHub Streak](https://streak-stats.demolab.com?user=viollenaki&theme=default)](https://git.io/streak-stats)
+
+
+
 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viollenaki&show_icons=true&theme=tokyonight" alt="viollenaki's GitHub Stats"/>
