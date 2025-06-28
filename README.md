@@ -4,7 +4,7 @@ I'm a dedicated student at the **AIT Institute**, currenlty part of AIT **Soluti
 
 ---
 
-## 🌐 Connect with Me:
+##  Connect with Me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40viollenaki-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/viollenaki)
 [![Telegram](https://img.shields.io/badge/Telegram-%40viollenaki-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/viollenaki)
