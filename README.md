@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @viollenaki
+#  Hi, I’m @viollenaki
 
 I'm a dedicated student at the **AIT Institute**, currenlty part of AIT **Solutions** team  .
 
