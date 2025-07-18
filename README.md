@@ -1,6 +1,6 @@
 #  Hi, I’m @viollenaki
 
-I'm a dedicated student at the **AIT Institute**, currenlty part of AIT **Solutions**
+I'm a dedicated student at the **AIT**, currenlty part of AIT **Solutions**
 
 ---
 
