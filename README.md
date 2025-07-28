@@ -73,7 +73,7 @@ I'm always open to collaborate on innovative IT projects, startups, or any initi
 ## 😄 A Bit About Me:
 - I'm known for my **soft skills**—I believe communication and teamwork are key in every project.
 - People say I have **good manners** and a **polite demeanor**, which helps me connect well with others.
-- I have a strong **work ethic** and focus on delivering high-quality solutions in all my tasks.
+- I have a strong **work ethic** and focus on delivering high-quality solutions in all my tasks
 
 ---
 
