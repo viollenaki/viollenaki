@@ -19,7 +19,7 @@ I'm passionate about the IT world, especially software development and new techn
 
 ---
 
-## 🌱 What I'm Learning:
+## 🌱 What I'm Learning
 I'm constantly learning and improving my skills, whether it’s about coding, system architecture, or the latest trends in tech. Right now, I'm working hard on mastering my current project while expanding my knowledge in IT development.
 
 ---
