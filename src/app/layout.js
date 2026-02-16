@@ -16,10 +16,10 @@ export const metadata = {
   description: "Portfolio of viollenaki - Developer, Creator, and Tech Enthusiast",
   icons: {
     icon: [
-      { url: "/kitty.png", type: "image/png" },
+      { url: "https://github.com/viollenaki/viollenaki/blob/main/src/app/icon.png", type: "image/png" },
     ],
-    shortcut: "/kitty.png",
-    apple: "/kitty.png",
+    shortcut: "https://github.com/viollenaki/viollenaki/blob/main/src/app/icon.png",
+    apple: "https://github.com/viollenaki/viollenaki/blob/main/src/app/icon.png",
   },
 };
 
