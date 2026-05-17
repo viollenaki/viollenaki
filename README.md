@@ -1,7 +1,3 @@
-#  Hi, I’m @viollenaki
-
-##  Connect with Me
-
 [![Instagram](https://img.shields.io/badge/Instagram-%40viollenaki-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/viollenaki)
 [![Telegram](https://img.shields.io/badge/Telegram-%40viollenaki-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/viollenaki)
 [![X](https://img.shields.io/badge/X-%40viollenaki-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/viollenaki)
@@ -11,7 +7,6 @@
 
 ![My Animation](https://repository-images.githubusercontent.com/507089682/889a6863-d25c-4a54-b2c5-8efad7260eeb)
 
-Daily Streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=viollenaki)](https://git.io/streak-stats)
 
 
@@ -35,6 +30,3 @@ Daily Streak
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viollenaki&theme=tokyonight" alt="Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viollenaki&theme=tokyonight&utcOffset=6" alt="Productive Time"/>
 </p>
-
-
-Let's connect, create, and make something amazing together! 🚀
