@@ -11,11 +11,6 @@
 
 
 
-📈 Activity Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viollenaki&theme=tokyo-night&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
 ⚡ GitHub Metrics:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viollenaki&theme=tokyonight" alt="Profile Summary"/>
