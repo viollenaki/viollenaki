@@ -5,20 +5,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akbar%20Sharipov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akbar-sharipov)
     
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=viollenaki)](https://git.io/streak-stats)
+ <p align="center"> 
+  <img src="https://streak-stats.demolab.com/?user=viollenaki" alt="Stats"/>
+ </p>
 
 
  
 
 
 ⚡ GitHub Metrics:
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viollenaki&theme=tokyonight" alt="Profile Summary"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viollenaki&theme=tokyonight" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viollenaki&theme=tokyonight" alt="Repos per Language"/>
-</p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viollenaki&theme=tokyonight" alt="Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viollenaki&theme=tokyonight&utcOffset=6" alt="Productive Time"/>
