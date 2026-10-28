@@ -13,7 +13,6 @@
  
 
 
-⚡ GitHub Metrics:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=viollenaki&theme=tokyonight" alt="Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viollenaki&theme=tokyonight&utcOffset=6" alt="Productive Time"/>
